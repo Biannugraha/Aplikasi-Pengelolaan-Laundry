@@ -1,0 +1,36 @@
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Guna.UI.dll
+C:\Users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_Paket.resources
+C:\Users\nesas\documents\visual studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Transaksi.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_User.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_login.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_outlet.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Dashboard.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_Laporan.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_Member.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\bin\Debug\Guna.UI.dll
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_Laporan.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_Member.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_User.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_login.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_outlet.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Data_Paket.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Transaksi.resources
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\nesas\Documents\Visual Studio 2013\Projects\Aplikasi Pengolahan Laundry\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.MainForm.resources
